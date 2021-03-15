@@ -29,5 +29,6 @@ Attack_B:
 5. Add stage clear condition<br>
 6. Add Character & Monster data<br>
 7. Add Menu<br>
+8. Add Sound Effect
 
 
