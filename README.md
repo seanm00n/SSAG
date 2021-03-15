@@ -1,4 +1,4 @@
-# SAGG
+# SSAG
 Side Scroll Action Game (SSAG) created in Unitye
 Made with Lee Sang-chan
 
