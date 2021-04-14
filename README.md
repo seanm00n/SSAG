@@ -22,7 +22,7 @@ Attack_B:
 
 # Development Plan
 1. Add UI for mobile environment<br>
-2. <del>Monster : modify summon position<del><br>
+2. Monster : modify summon position<br>
 3. Monster : add Attack<br>
 4. Character & Monster : add health decreas & death logic<br>
 5. Add stage clear condition<br>
